@@ -1,3 +1,3 @@
-##MERN fullstack blog
+## MERN fullstack blog
 
-#heroku deployment: https://reactblogxd.herokuapp.com/
+# heroku deployment: https://reactblogxd.herokuapp.com/
